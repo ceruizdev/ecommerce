@@ -5573,11 +5573,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Develop\\Personal\\NET 7\\AmazonShop\\backend\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj",
+      "projectUniqueName": "D:\\Develop\\Personal\\NET-7\\AmazonShop\\Backend\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj",
       "projectName": "Ecommerce.Infrastructure",
-      "projectPath": "d:\\Develop\\Personal\\NET 7\\AmazonShop\\backend\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj",
+      "projectPath": "D:\\Develop\\Personal\\NET-7\\AmazonShop\\Backend\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\cerui\\.nuget\\packages\\",
-      "outputPath": "d:\\Develop\\Personal\\NET 7\\AmazonShop\\backend\\src\\Infrastructure\\obj\\",
+      "outputPath": "D:\\Develop\\Personal\\NET-7\\AmazonShop\\Backend\\src\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cerui\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5594,8 +5594,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "d:\\Develop\\Personal\\NET 7\\AmazonShop\\backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj": {
-              "projectPath": "d:\\Develop\\Personal\\NET 7\\AmazonShop\\backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj"
+            "D:\\Develop\\Personal\\NET-7\\AmazonShop\\Backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj": {
+              "projectPath": "D:\\Develop\\Personal\\NET-7\\AmazonShop\\Backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj"
             }
           }
         }

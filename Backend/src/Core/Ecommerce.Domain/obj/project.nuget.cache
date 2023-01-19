@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HMbDZnlCrirQAMWUy6mHLXPP6f/0dXLXuZze2gQnqtGgtdXdXACocGEbnSZSLOqoyGW7Ubwcf5VoVwLa27G5HA==",
+  "dgSpecHash": "eu68AksL29f9Yyfi0PJ9JGyQZ1xaLrw+wxh2sk1cDGanfKpYL5QO638pSreVcbQWpS1LZqgncBaqZkcRLzk8tA==",
   "success": true,
-  "projectFilePath": "d:\\Develop\\Personal\\NET 7\\AmazonShop\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
+  "projectFilePath": "D:\\Develop\\Personal\\NET-7\\AmazonShop\\Backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cerui\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\cerui\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0mOw1+fbw29GdFKPtpuqz4BB8EoQ2RLbTDKC+NhTFislA8EHJYfKON4DJWma/bM0E5XQTwEYnKiPtgWkguKAMA==",
+  "dgSpecHash": "ZFE0LebtEq1IP/wBaGJAvNQsXs3vr4SfThpRFpbvzM9iE62aMfRs5BozvXmF+5IlOIwIjLqKPlbE/B266HE46Q==",
   "success": true,
-  "projectFilePath": "d:\\Develop\\Personal\\NET 7\\AmazonShop\\backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj",
+  "projectFilePath": "D:\\Develop\\Personal\\NET-7\\AmazonShop\\Backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cerui\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\cerui\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

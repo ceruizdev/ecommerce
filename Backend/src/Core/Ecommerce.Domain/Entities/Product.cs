@@ -9,7 +9,7 @@ public class Product : BaseDomainModel
     [Column(TypeName = "NVARCHAR(100)")]
     public string? Name { get; set; }
     [Column(TypeName = "DECIMAL(10,2)")]
-    public decimal Value { get; set; }
+    public decimal Price { get; set; }
     [Column(TypeName = "NVARCHAR(MAX)")]
     public string? Description { get; set; }
     public int Rating { get; set; }

@@ -10,3 +10,15 @@ D:\Develop\Personal\NET 7\AmazonShop\backend\src\Core\Ecommerce.Domain\obj\Debug
 D:\Develop\Personal\NET 7\AmazonShop\backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\refint\Ecommerce.Domain.dll
 D:\Develop\Personal\NET 7\AmazonShop\backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.pdb
 D:\Develop\Personal\NET 7\AmazonShop\backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\ref\Ecommerce.Domain.dll
+D:\Develop\Personal\NET-7\AmazonShop\Backend\src\Core\Ecommerce.Domain\bin\Debug\net7.0\Ecommerce.Domain.deps.json
+D:\Develop\Personal\NET-7\AmazonShop\Backend\src\Core\Ecommerce.Domain\bin\Debug\net7.0\Ecommerce.Domain.dll
+D:\Develop\Personal\NET-7\AmazonShop\Backend\src\Core\Ecommerce.Domain\bin\Debug\net7.0\Ecommerce.Domain.pdb
+D:\Develop\Personal\NET-7\AmazonShop\Backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.csproj.AssemblyReference.cache
+D:\Develop\Personal\NET-7\AmazonShop\Backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Develop\Personal\NET-7\AmazonShop\Backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.AssemblyInfoInputs.cache
+D:\Develop\Personal\NET-7\AmazonShop\Backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.AssemblyInfo.cs
+D:\Develop\Personal\NET-7\AmazonShop\Backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.csproj.CoreCompileInputs.cache
+D:\Develop\Personal\NET-7\AmazonShop\Backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.dll
+D:\Develop\Personal\NET-7\AmazonShop\Backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\refint\Ecommerce.Domain.dll
+D:\Develop\Personal\NET-7\AmazonShop\Backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\Ecommerce.Domain.pdb
+D:\Develop\Personal\NET-7\AmazonShop\Backend\src\Core\Ecommerce.Domain\obj\Debug\net7.0\ref\Ecommerce.Domain.dll

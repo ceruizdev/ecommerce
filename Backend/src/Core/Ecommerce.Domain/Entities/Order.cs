@@ -2,8 +2,9 @@ using System.ComponentModel.DataAnnotations.Schema;
 using Ecommerce.Domain.Common;
 
 namespace Ecommerce.Domain;
-public class Order: BaseDomainModel
+public class Order : BaseDomainModel
 {
+    public Order() {}
     public Order(
         string CustomerName,
         string CustomerUsername,
@@ -12,14 +13,15 @@ public class Order: BaseDomainModel
         decimal Total,
         decimal Tax,
         decimal DeliveryPrice
-    ){
+    )
+    {
         this.CustomerName = CustomerName;
         this.CustomerUsername = CustomerUsername;
         this.OrderAddress = OrderAddress;
         this.SubTotal = SubTotal;
         this.Total = Total;
         this.Tax = Tax;
-        this.DeliveryPrice =  DeliveryPrice;
+        this.DeliveryPrice = DeliveryPrice;
     }
 
     public string? CustomerName { get; set; }
@@ -31,9 +33,9 @@ public class Order: BaseDomainModel
     public OrderStatus Status { get; set; } = OrderStatus.Pending;
     [Column(TypeName = "DECIMAL(10,2)")]
     public decimal Total { get; set; }
-     [Column(TypeName = "DECIMAL(10,2)")]
+    [Column(TypeName = "DECIMAL(10,2)")]
     public decimal Tax { get; set; }
-     [Column(TypeName = "DECIMAL(10,2)")]
+    [Column(TypeName = "DECIMAL(10,2)")]
     public decimal DeliveryPrice { get; set; }
     public string? PaymentIntentId { get; set; }
     public string? StripeApiKey { get; set; }
