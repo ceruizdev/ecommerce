@@ -1,5 +1,4 @@
 namespace Ecommerce.Domain.Common;
-
 public abstract class BaseDomainModel {
     public int Id { get; set; }
     public DateTime? CreateDate { get; set; }
